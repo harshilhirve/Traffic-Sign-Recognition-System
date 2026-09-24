@@ -1,0 +1,12 @@
+# Traffic Sign Recognition — YOLOv8
+# Install everything with:
+#   pip install -r requirements.txt
+
+# YOLOv8 — includes PyTorch automatically
+ultralytics>=8.0.0
+
+# Computer vision
+opencv-python>=4.8.0
+
+# Numerical computing (installed by ultralytics, listed for clarity)
+numpy>=1.24.0
